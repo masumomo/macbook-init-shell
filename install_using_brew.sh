@@ -1,3 +1,9 @@
+# If you don't want to install specific app in this list
+# please comment out unnecessary app in install_using_brew.sh file.
+# like this
+# brew install git &&
+#
+#
 brew install git &&
 brew install anyenv &&
 # Uril to controll dock
@@ -10,4 +16,4 @@ brew cask install figma &&
 brew cask install slack && 
 brew cask install zoom && 
 brew cask install skype &&
-echo "Complated!"
+echo Complated!
