@@ -24,13 +24,16 @@ First of all. update MacOS.
 
 ## Install apps using Homebrew🍻
 
-You can use Homebrew! Cheers!!🍻
+Now, you can use Homebrew! Cheers!!🍻
 
 ```bash
+chmod +x ./install_using_brew.sh
 install_using_brew.sh
 ```
 
 These apps would be installed by using this shell.
+
+If you don't want to install specific app in this list, please comment out unnecessary app in `install_using_brew.sh` file.
 
 - Git
 - Anyenv
@@ -39,6 +42,9 @@ These apps would be installed by using this shell.
 - Rectangle
 - licecap
 - clipy
+- Slack
+- Zoom
+- Skype
 
 WIP!!!
 

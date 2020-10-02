@@ -7,3 +7,7 @@ brew cask install rectangle &&
 brew cask install licecap && 
 brew cask install clipy && 
 brew cask install figma && 
+brew cask install slack && 
+brew cask install zoom && 
+brew cask install skype &&
+echo "Complated!"
