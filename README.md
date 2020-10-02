@@ -1,4 +1,4 @@
-# macbook-init-shell
+# Macbook init shell💻
 This repo includes instruction and shell to set up new MacBook💻 for developers.
 
 ## Update MacOS
