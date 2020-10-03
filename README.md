@@ -57,6 +57,7 @@ If you don't want to install specific app in this list, please comment out unnec
 - Numi
 - Rectangle
 - licecap
+- Giflity
 - clipy
 - Slack
 - Zoom
