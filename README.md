@@ -1,11 +1,11 @@
 # Macbook init shell💻
 This repo includes instruction and shell to set up new MacBook💻 for developers.
 
-## Update MacOS
+## Update MacOS🍎
 
 First of all. update MacOS.
 
-## System Preference
+## System Preference⚙️
 
 - Trackpad > Tap to click
 - Keyboard > Key Repeat > Fast (Right side)
@@ -22,7 +22,7 @@ First of all. update MacOS.
 ```
 
 
-## Install apps using Homebrew🍻
+## Install apps using Homebrew app📚
 
 Now, you can use Homebrew! Cheers!!🍻
 
@@ -56,4 +56,4 @@ WIP!!!
 - Add VScode extensions section
 - Add explanation of installed apps
 
-# Contributions are welcome!!!
+# Contributions are welcome!!!🎉
