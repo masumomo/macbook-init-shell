@@ -1,0 +1,20 @@
+plugins=(
+  git
+  github
+  gitignore
+  vscode
+  osx
+  rake
+  ruby
+  gem
+  postgres
+  npm
+  npx
+  gatsby
+  heroku
+  go
+  emoji
+  docker
+  cp
+  aws
+)

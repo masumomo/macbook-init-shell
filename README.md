@@ -10,6 +10,7 @@ First of all. update MacOS.
 - Trackpad > Tap to click
 - Keyboard > Key Repeat > Fast (Right side)
 - Keyboard > Delay Until Repeat > Short (Right side)
+- Keyboard > Input Sources > Change "¥" key generates to \ (Backslash)
 - Dock > Automatically hide and show the Dock(Depends on your preference)
 
 
@@ -20,15 +21,30 @@ First of all. update MacOS.
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
+## Clone this repository
 
 
-## Install apps using Homebrew app📚
+```bash
+git clone https://github.com/masumomo/macbook-init-shell
+cd macbook-init-shell
+chmod 755 ./*.sh
+```
+
+## Install oh my zsh🧞‍♂️
+Oh my zsh is a framework for managing zsh configuration.
+
+```bash
+./setup_oh_my_zsh.sh
+```
+
+
+
+## Install apps using Homebrew📚
 
 Now, you can use Homebrew! Cheers!!🍻
 
 ```bash
-chmod +x ./install_using_brew.sh
-install_using_brew.sh
+./install_using_brew.sh
 ```
 
 These apps would be installed by using this shell.
